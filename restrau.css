@@ -99,7 +99,7 @@ ul li a:hover {
 }
 .btn:hover {
     cursor: pointer;
-    background-color: red;
+    background-color: rgb(203, 191, 191);
 }
 
 #container3 {
