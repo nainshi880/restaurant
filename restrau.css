@@ -64,7 +64,7 @@ ul li a:hover {
 }
 #container1::before {
     content: '';
-    background: url("https://media.geeksforgeeks.org/wp-content/uploads/20240711124309/8513909_3941598-(2).jpg") no-repeat center center/cover;
+    background: url(" ") no-repeat center center/cover;
     width: 100vw;
     height: 59vh;
     position: absolute;
